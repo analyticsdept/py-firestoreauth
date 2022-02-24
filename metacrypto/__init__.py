@@ -1,0 +1,1 @@
+from metacrypto.metacrypto import MetaCrypto
